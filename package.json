@@ -1,0 +1,9 @@
+{
+	"name" : "censorify",
+	"author" : "Achin Kumar",
+	"version" : "0.0.1",
+	"description" : "Censors an input text",
+	"engines" : {
+		"node" : "*"
+	}
+}
