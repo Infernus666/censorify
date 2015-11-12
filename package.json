@@ -3,6 +3,12 @@
 	"author" : "Achin Kumar",
 	"version" : "0.0.1",
 	"description" : "Censors an input text",
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/Infernus666/censorify"
+	},
+	"keywords" : ["censor", "censorship"],
+	"dependencies" : {},
 	"engines" : {
 		"node" : "*"
 	}
