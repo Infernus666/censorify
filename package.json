@@ -1,7 +1,7 @@
 {
 	"name" : "censorify42",
 	"author" : "Achin Kumar",
-	"version" : "0.0.2",
+	"version" : "0.0.3",
 	"description" : "Censors an input text",
 	"repository": {
 		"type" : "git",
